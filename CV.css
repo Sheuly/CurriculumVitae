@@ -1,0 +1,110 @@
+.allContent{
+ width:70%;
+ margin:0 auto;
+ margin-bottom:0px;
+ /*border-style: solid;*/
+ background-image: url("bc2.jpg");
+ /*background-blend-mode: lighten;*/
+  background-repeat: repeat;
+   background-position: center;
+ 
+ }
+
+.head{
+/*border-style: solid;*/
+border-bottom: double gray;
+margin-bottom:4px;
+}
+.head-text{
+ width:80%;
+ float:left;
+}
+
+.h1_head{
+margin-left:8px;
+margin-bottom:0px;
+}
+
+h2.h2_head,p.p_head{
+margin-top:0px;
+margin-bottom:4px;
+margin-left:8px;
+}
+
+p.p_head,p.phn{
+font-size: 20px;
+}
+
+p.phn{
+margin-top:0px;
+margin-bottom:8px;
+margin-left:8px;
+
+}
+
+.head-pic{
+    width:17%;
+	margin-top:8px;
+	float: left;
+}
+.image{
+border: 1px solid gray;
+}
+
+.info{
+clear:left;
+}
+h2.obj_head{
+margin-top:286px;
+margin-left:8px;
+margin-right:8px;
+border-style: outset;
+padding: 8px 150px 8px 350px;
+background-color: LightGray;
+}
+
+p.p_obj,.skill,p.p_lang,.self{
+	font-size: 18px;
+	margin-left:15px;
+margin-right:15px;
+margin-bottom:15px;
+}
+
+.p_end{
+	font-size: 18px;
+	margin-top:70px;
+	margin-bottom:30px;
+}
+
+h2.edu_head,h2.skill_head,.lang_head,.self_head,.add_head{
+	
+margin-top:30px;
+margin-left:8px;
+margin-right:8px;
+border-style: outset;
+padding: 8px 150px 8px 285px;
+background-color: LightGray;
+}
+.edu_table{
+    font-size: 18px;
+    border-collapse: collapse;
+	margin-left:12px;
+    margin-right:12px;
+	margin-bottom:15px;
+}
+.add_table{
+	font-size: 18px;
+    border-collapse: collapse;
+	margin-left:140px;
+    margin-right:20px;
+	margin-bottom:20px;
+}
+td, th {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+	
+}
+
+
+
